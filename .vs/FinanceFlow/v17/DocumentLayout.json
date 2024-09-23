@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aliev\\Desktop\\FinanceFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68374EC6-0211-424C-91A9-C19EC4D6DE08}|FinanceFlow\\FinanceFlow.vcxproj|C:\\Users\\aliev\\Desktop\\FinanceFlow\\FinanceFlow\\FinanceFlow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68374EC6-0211-424C-91A9-C19EC4D6DE08}|FinanceFlow\\FinanceFlow.vcxproj|solutionrelative:FinanceFlow\\FinanceFlow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinanceFlow.cpp",
+              "DocumentMoniker": "C:\\Users\\aliev\\Desktop\\FinanceFlow\\FinanceFlow\\FinanceFlow.cpp",
+              "RelativeDocumentMoniker": "FinanceFlow\\FinanceFlow.cpp",
+              "ToolTip": "C:\\Users\\aliev\\Desktop\\FinanceFlow\\FinanceFlow\\FinanceFlow.cpp",
+              "RelativeToolTip": "FinanceFlow\\FinanceFlow.cpp",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAYwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T16:22:48.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
